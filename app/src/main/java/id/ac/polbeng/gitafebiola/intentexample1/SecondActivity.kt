@@ -1,6 +1,5 @@
 package id.ac.polbeng.gitafebiola.intentexample1
 
-
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import id.ac.polbeng.gitafebiola.intentexample1.databinding.ActivitySecondBinding
